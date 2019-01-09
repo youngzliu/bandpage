@@ -1,0 +1,10 @@
+.sidebar {
+  width: 35%;
+  border: 7px solid green;
+  float: right;
+  background-color: purple;
+}
+
+.keshimg{
+  padding: 50px;
+}
